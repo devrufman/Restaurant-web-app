@@ -29,6 +29,7 @@ const Menu = () => {
         </Link>
       ))}
     </section>
+    
   );
 };
 

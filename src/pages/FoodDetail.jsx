@@ -8,7 +8,7 @@ const foodDetails = {
   },
   2: {
     name: "Egusi Soup",
-    description: "A rich Nigerian soup made with ground melon seeds, meat, and leafy vegetables.",
+    description: "A rich Nigerian soup made with ground melon seeds, meat, and leafy vegetables. ",
     img: "https://i0.wp.com/dobbyssignature.com/wp-content/uploads/2015/06/egusi-soup.jpg?fit=640%2C426&ssl=1",
   },
   3: {
